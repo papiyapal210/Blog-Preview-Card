@@ -51,7 +51,6 @@ body{
 }
 .heading{
     color: hsl(0, 0%, 7%);
-    font-size: clamp(17px, 1vw, 18px);
     font-weight: 800;
     margin-bottom: 5px;
 }
