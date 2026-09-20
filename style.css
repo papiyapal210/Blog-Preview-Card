@@ -66,13 +66,13 @@ body{
     gap: 10px;
 }
 .profile-picture{
-    width: 25px;
+    width: 30px;
 }
 .profile-name{
-    font-size: clamp(10px, 1vw, 11px);
+    font-size: clamp(11px, 1vw, 14px);
     font-weight: 800;
     padding-top: 20px;
-    margin-bottom: 15px;
+    margin-bottom: 10px;
 }
 @media (max-width:376px) {
     .card{
