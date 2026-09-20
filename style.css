@@ -30,6 +30,7 @@ body{
     object-fit: cover;
     object-position: center;
     border-radius: 10px;
+    margin-bottom: 5px;
 }
 .catagory{
     font-size: clamp(11px, 1vw, 14px);
@@ -52,7 +53,7 @@ body{
 .heading{
     color: hsl(0, 0%, 7%);
     font-weight: 800;
-    margin-bottom: 5px;
+    margin-bottom: 3px;
 }
 .content{
     color: hsl(0, 0%, 42%);
