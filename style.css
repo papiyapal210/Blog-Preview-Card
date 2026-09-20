@@ -26,7 +26,6 @@ body{
 }
 .picture{
     width: 100%;
-    height: ;
     object-fit: cover;
     object-position: center;
     border-radius: 10px;
@@ -74,6 +73,6 @@ body{
 }
 @media (max-width:376px) {
     .card{
-        width: 90%
+        width: 90%;
     }
 }
