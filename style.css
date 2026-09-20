@@ -15,7 +15,7 @@ body{
 }
 .card{
     background-color: hsl(0, 0%, 100%);
-    width: 350px;
+    width: 380px;
     padding: 20px;
     border-radius: 15px;
     border: 1px solid black;
@@ -37,7 +37,7 @@ body{
     color: hsl(0, 0%, 7%);
     background-color: hsl(47, 88%, 63%);
     height: 30px;
-    width: 70px;
+    width: 80px;
     display: flex;
     justify-content: center;
     align-items: center;
